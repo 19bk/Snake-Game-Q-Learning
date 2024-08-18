@@ -1,0 +1,23 @@
+.venv
+venv
+/aisnake/pickle
+# Ignore all .mov files
+*.mov
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE-specific files (optional, uncomment if needed)
+# .vscode/
+# .idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
